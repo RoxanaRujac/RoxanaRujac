@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoxanaRujac
 
-  I'm a 3rd-year Computer Science student at the Technical University of Cluj-Napoca, specializig in Computer Science.
+  I'm a 3rd-year Computer Science student at the Technical University of Cluj-Napoca, specializing in Computer Science.
   Passionate about technology, clean code, and solving real-world problems through software.
   I enjoy working on projects that help me learn and grow as a developer, and I’m always open to collaboration and new ideas!
 
